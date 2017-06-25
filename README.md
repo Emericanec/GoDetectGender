@@ -3,6 +3,12 @@
 Определение пола по ФИО для русского языка на Golang
 
 # Установка:
+
+```sh
+    $ go get github.com/emericanec/GoDetectGender
+```
+
+Заимпортить библиотеку:
 ```go
     import "github.com/emericanec/GoDetectGender"
 ```
